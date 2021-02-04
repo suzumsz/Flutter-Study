@@ -1,6 +1,5 @@
-# firebase_authentication2
-
-A new Flutter application.
+# firebase_authentication
+## flutter와 firebase auth 연동
 
 ## Getting Started
 
