@@ -1,6 +1,5 @@
 # example_http
-
-A new Flutter application.
+> flutter와 http 연동
 
 ## Getting Started
 
