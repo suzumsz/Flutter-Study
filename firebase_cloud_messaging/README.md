@@ -1,6 +1,5 @@
 # fcm_test
-
-A new Flutter project.
+> flutter에 fcm 기능 연동
 
 ## Getting Started
 
