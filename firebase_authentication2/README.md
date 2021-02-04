@@ -1,5 +1,5 @@
 # firebase_authentication
-## flutter와 firebase auth 연동
+> flutter와 firebase auth 연동
 
 ## Getting Started
 
