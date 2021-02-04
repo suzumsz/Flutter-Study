@@ -1,6 +1,5 @@
 # scafford
-
-A new Flutter application.
+> flutter layout 및 기능 연습
 
 ## Getting Started
 
