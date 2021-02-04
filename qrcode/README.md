@@ -1,6 +1,5 @@
 # qrcode
-
-A new Flutter application.
+> qr코드와 바코드/사진 스캔 기능 테스트 
 
 ## Getting Started
 
