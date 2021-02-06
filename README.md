@@ -9,6 +9,9 @@
 ### [firebase_cloud_messaging](./firebase_cloud_messaging)
 - fcm 기능 구현
 
+### [firestore_app](./firestore_app)
+- firestore를 이용한 todo-list 만들어보기
+
 ### [qrcode](./qrcode)
 - qr코드와 바코드/사진 스캔 기능 테스트
 
